@@ -1,5 +1,5 @@
 # microserviceA
-361 microservice for group member
+361 microservice for Conrad
 
 # How to request data
 There are three cases that the microservice will respond to. Each case requires that a csv with the headers game_title, played, and genre is printed to the specified .csv file.
