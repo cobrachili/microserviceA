@@ -11,13 +11,13 @@ Case 2) The user wants a random game they have not play played before, so they w
 Case 3) The user wants a random game by a random genre, so they write a csv to the random_genre.csv file.
 
 # Example call
-
+```
 games = "game_title,played,genre
 fortnite,false,battle royale
 league of legends,true,moba
 counter-strike,true,first-person shooter
 super mario,false,platformer"
-
+```
 Case 1) Random game:
 ```
 def write_game_csv(games):
