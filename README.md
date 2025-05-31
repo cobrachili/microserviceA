@@ -58,5 +58,6 @@ with open(input_file, 'r', newline='') as file:
     return games
 ```
 # UML Sequence Diagram 
-![image](https://github.com/user-attachments/assets/06ce6f21-9aa0-4936-b0bf-1f11f5e62dde)
+![image](https://github.com/user-attachments/assets/8dd640c7-ac5b-49c7-a9bf-74611f767117)
+
 
